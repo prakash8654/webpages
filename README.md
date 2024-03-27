@@ -1,1 +1,1 @@
-assignment/index.html
+assignment
